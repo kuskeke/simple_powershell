@@ -50,6 +50,5 @@ do
 	}
 }While (!$out.equals("exit"))
 $writer.close();
-#created by kuker
 $socket.close();
 $stream.Dispose()
